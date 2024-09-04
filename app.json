@@ -20,15 +20,15 @@
         },
         "API_HASH":{
             "description":"Get your telegram API HASH from https://my.telegram.org",
-		    "value":""
+		    "value":"644ca71d8f3a8bf718cc317c53114d9d"
         },
         "BOT_TOKEN":{
             "description":"Get from BotFather",
-            "value":""
+            "value":"7447109300:AAGxmGEdHBVpr_RjSvzOJK9nL2-W1DhItIs"
         },
         "AUTH_USERS":{
             "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
-            "value":""
+            "value":"7535195022"
         }
     }
 }
